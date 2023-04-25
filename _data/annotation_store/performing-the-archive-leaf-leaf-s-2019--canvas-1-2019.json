@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://rpickard01.github.io/hearing-lived-experience/annotations/performing-the-archive-leaf-leaf-s-2019--canvas-1-2019.json",
+  "id": "https://hipstas.github.io/hearing-lived-experience/annotations/performing-the-archive-leaf-leaf-s-2019--canvas-1-2019.json",
   "type": "AnnotationPage",
   "label": "2019",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "210.0,295.0"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "409.0,435.0"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "508.0,560.0"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "677.0,701.0"

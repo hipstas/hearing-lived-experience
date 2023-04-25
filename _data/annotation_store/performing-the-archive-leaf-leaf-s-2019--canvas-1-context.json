@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://rpickard01.github.io/hearing-lived-experience/annotations/performing-the-archive-leaf-leaf-s-2019--canvas-1-context.json",
+  "id": "https://hipstas.github.io/hearing-lived-experience/annotations/performing-the-archive-leaf-leaf-s-2019--canvas-1-context.json",
   "type": "AnnotationPage",
   "label": "Context",
   "items": [
@@ -19,7 +19,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "0.0,19.0"
@@ -41,7 +41,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "20.0,133.0"
@@ -63,7 +63,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "355.0,390.0"
@@ -85,7 +85,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "392.0,408.0"
@@ -107,7 +107,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "485.0,495.0"
@@ -129,7 +129,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "495.0,506.0"
@@ -151,7 +151,7 @@
         "purpose": "commenting"
       },
       "target": {
-        "source": "https://rpickard01.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+        "source": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
         "selector": {
           "type": "RangeSelector",
           "t": "671.0,677.0"
